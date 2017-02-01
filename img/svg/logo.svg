@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_13">
+   <text stroke="#000000" transform="matrix(7.052488290804934,0,0,5.867497407322882,-915.9920784947142,-1055.5506891295536) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_2" y="202.141443" x="137.680833" stroke-width="0" fill="#7f007f">L</text>
+   <text stroke="#000000" transform="matrix(3.9053690105002365,0,0,3.121692769024324,-582.0813462855448,-355.1999285293642) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="147.629482" x="167.351212" stroke-width="0" fill="#7f007f">R</text>
+   <rect stroke="#7f007f" id="svg_3" height="21.292349" width="47.542308" y="15.476389" x="8.441373" stroke-width="5" fill="#7f007f"/>
+   <ellipse stroke="#7f007f" ry="8.065284" rx="11.40373" id="svg_4" cy="26.747114" cx="33.56503" stroke-width="5" fill="#ffffff"/>
+   <rect stroke="#7f007f" id="svg_5" height="5.728794" width="8.030795" y="9.317444" x="12.938617" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#7f007f"/>
+   <rect stroke="#7f007f" id="svg_6" height="0" width="0.642464" y="10.95983" x="11.65369" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#7f007f"/>
+  </g>
+ </g>
+</svg>
